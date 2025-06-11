@@ -1,7 +1,7 @@
 [project]
-name = "research-agent"
+name = "legal-agent"
 version = "0.1.0"
-description = "Legal Research Agent - Multi-agent system for legal document research and analysis"
+description = "Legal Research Agent - A simple multi-agent system for legal document research and analysis"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
