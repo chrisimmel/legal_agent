@@ -26,38 +26,16 @@ Create a `.env` file with your OpenAI API key:
 OPENAI_API_KEY=your_openai_key
 ```
 
-### 3. Run a Legal Research Query
+### 3. Try it out with a Legal Research Query
 ```bash
 python orchestrator.py "Cite an example of a case involving breach of contract, and tell me who prevailed in the case."
 ```
-
-## How It Works
-
-The system employs a basic multi-agent approach:
-
-1. **Planning Phase**: The `PlannerAgent` analyzes your query and creates a step-by-step research plan
-2. **Execution Phase**: The `StepExecutorAgent` performs document searches and analysis for each step
-3. **Reflection Phase**: The `StepReflectorAgent` evaluates the quality of each step and decides if retry is needed
-4. **Orchestration**: The `AgentOrchestrator` coordinates all agents until the research is complete
-
-## Components
-
-### Core Agents
-- **`agents/planner.py`** - Plans multi-step research strategies
-- **`agents/step_executor.py`** - Executes research steps with vector search
-- **`agents/step_reflector.py`** - Evaluates and refines agent outputs
-- **`orchestrator.py`** - Coordinates the entire research process
-
-### Document Processing
-- **`pdf_to_markdown_ocr.py`** - Enhanced PDF converter with OCR support
-- **`document_manager.py`** - Manages document loading and processing
-- **`vector_store_manager.py`** - Handles vector database operations
 
 ## Usage Examples
 
 ### Basic Research Query
 ```bash
-python orchestrator.py "Summarize the key findings from all legal cases"
+ python orchestrator.py "Name the respondent in a case in which damages were awarded."
 ```
 
 ### Complex Multi-Step Analysis
@@ -70,13 +48,10 @@ python orchestrator.py "What types of legal proceedings are represented and what
 python orchestrator.py "What are the main arguments in cases involving contract disputes?"
 ```
 
-## Example Queries
-
-- **Case Analysis**: "What are the main legal issues discussed in the case documents?"
-- **Outcome Summary**: "Summarize the key findings and outcomes from all cases"  
-- **Comparative Analysis**: "Compare the legal arguments across different case types"
-- **Procedural Questions**: "What types of legal proceedings are represented in the database?"
-- **Topic Research**: "Find all references to intellectual property disputes"
+### Topic Research
+```bash
+python orchestrator.py "Find all references to intellectual property disputes?"
+```
 
 ## Setup and Configuration
 
@@ -86,33 +61,36 @@ python orchestrator.py "What are the main arguments in cases involving contract 
 - OpenAI API key (for embeddings and LLM access)
 
 ### Document Preparation
-1. Place PDF documents in `data/` directory
-2. Run PDF processing to convert to markdown:
-```bash
-python pdf_to_markdown_ocr.py
-```
-3. Documents will be processed into `data/documents/` as markdown files
+The test document set is pre-installed and requires no preparation. However, it is trivial to
+ingest other text documents by putting them in the `data/documents` folder and ensuring they
+ollow the format of the existing files there.
 
+It is also possible to adapt the code in `pdf_to_markdown_ocr.py` to extract text from PDF
+documents.
 
-## Architecture
+## How it Works
 
 ### Multi-Agent System
 The research agent uses three specialized AI agents:
 
 1. **PlannerAgent** (`agents/planner.py`)
-   - Analyzes user queries and creates research plans
+   - Analyzes user queries and creates a research plan
    - Breaks complex questions into manageable steps
    - Considers document types and research scope
 
 2. **StepExecutorAgent** (`agents/step_executor.py`)
-   - Executes individual research steps
-   - Performs semantic search across document vector store
-   - Synthesizes findings into response documents
+   - If needed, finds pertinent documents using semantic search
+   - Executes a single step of the plan
 
 3. **StepReflectorAgent** (`agents/step_reflector.py`)
    - Evaluates the quality and completeness of each step
    - Determines if steps need to be retried or refined
    - Ensures high-quality research outputs
+
+
+An `AgentOrchestrator` coordinates all agents and works through the steps until the research is complete.
+
+Chroma is used as the vector store for the legal documents.
 
 ### Project Structure
 
