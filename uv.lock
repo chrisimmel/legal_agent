@@ -979,6 +979,29 @@ wheels = [
 ]
 
 [[package]]
+name = "legal-agent"
+version = "0.1.0"
+source = { virtual = "." }
+dependencies = [
+    { name = "anthropic" },
+    { name = "chromadb" },
+    { name = "instructor" },
+    { name = "langchain-text-splitters" },
+    { name = "openai" },
+    { name = "sentence-transformers" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "anthropic", specifier = ">=0.54.0" },
+    { name = "chromadb", specifier = ">=1.0.12" },
+    { name = "instructor", specifier = ">=1.8.3" },
+    { name = "langchain-text-splitters", specifier = ">=0.3.8" },
+    { name = "openai", specifier = ">=1.12.0" },
+    { name = "sentence-transformers", specifier = ">=4.1.0" },
+]
+
+[[package]]
 name = "markdown-it-py"
 version = "3.0.0"
 source = { registry = "https://pypi.org/simple" }
@@ -2142,29 +2165,6 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/f3/61/d7545dafb7ac2230c70d38d31cbfe4cc64f7144dc41f6e4e4b78ecd9f5bb/requests-toolbelt-1.0.0.tar.gz", hash = "sha256:7681a0a3d047012b5bdc0ee37d7f8f07ebe76ab08caeccfc3921ce23c88d5bc6", size = 206888 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/3f/51/d4db610ef29373b879047326cbf6fa98b6c1969d6f6dc423279de2b1be2c/requests_toolbelt-1.0.0-py2.py3-none-any.whl", hash = "sha256:cccfdd665f0a24fcf4726e690f65639d272bb0637b9b92dfd91a5568ccf6bd06", size = 54481 },
-]
-
-[[package]]
-name = "research-agent"
-version = "0.1.0"
-source = { virtual = "." }
-dependencies = [
-    { name = "anthropic" },
-    { name = "chromadb" },
-    { name = "instructor" },
-    { name = "langchain-text-splitters" },
-    { name = "openai" },
-    { name = "sentence-transformers" },
-]
-
-[package.metadata]
-requires-dist = [
-    { name = "anthropic", specifier = ">=0.54.0" },
-    { name = "chromadb", specifier = ">=1.0.12" },
-    { name = "instructor", specifier = ">=1.8.3" },
-    { name = "langchain-text-splitters", specifier = ">=0.3.8" },
-    { name = "openai", specifier = ">=1.12.0" },
-    { name = "sentence-transformers", specifier = ">=4.1.0" },
 ]
 
 [[package]]
