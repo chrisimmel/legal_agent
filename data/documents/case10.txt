@@ -1,0 +1,37 @@
+--- case_10.txt ---
+Case Number: KHC-2021-2104  
+Title: Kumar v. State of Kerala  
+Jurisdiction: Kerala High Court, Writ Jurisdiction  
+Date: December 5, 2021  
+Judge: Justice Anil Menon  
+
+Parties & Counsel:  
+• Petitioner: Rajesh Kumar (counsel: Kochery & Co.)  
+• Respondent: State of Kerala (counsel: AG’s Office)  
+
+Background:  
+Under KMC Act 1994 §215, municipality may demolish unauthorized structures after hearing.
+
+Procedural History:  
+Writ filed Oct 2021; interim stay granted.
+
+Facts:  
+– Demolition notice delivered to wrong address.  
+– Survey used unverified GPS data; no triangulation.
+
+Legal Issues:  
+1. Violation of audi alteram partem (Art. 14 IPC).  
+2. Validity of survey report.
+
+Party Arguments:  
+- **Kumar:** No hearing; survey flawed.  
+- **State:** Emergency public safety justified summary order.
+
+Legal Standard:  
+Natural justice principles in administrative action (Maneka Gandhi v. Union of India).
+
+Analysis:  
+Court finds notice jurisdictional; survey inadmissible without calibration. Public safety argument fails absent immediate hazard evidence.
+
+Holding & Directive:  
+Demolition quashed. Municipality to re-issue proper notice, conduct hearing, fresh survey within 90 days. ₹20,000 costs awarded. Concurring opinion: propose guidelines for remote-notice service.  

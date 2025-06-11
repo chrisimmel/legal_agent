@@ -1,0 +1,37 @@
+--- case_07.txt ---
+Case Number: SCC-2023-0019  
+Title: Tremblay v. Canada Post Corporation  
+Jurisdiction: Supreme Court of Canada  
+Date: January 19, 2023  
+Justices: McLachlin C.J., Abella and Côté JJ.  
+
+Parties & Counsel:  
+• Appellant: Marie Tremblay (counsel: Blake, Cassels & Graydon)  
+• Respondent: CPC (counsel: Department of Justice Canada)  
+
+Background:  
+Tremblay’s P.O. box suspended for non-payment of $25 fee; critical medical docs undelivered.
+
+Procedural History:  
+Quebec CA upheld CPC’s policy; SCC granted leave Oct 2022.
+
+Facts:  
+– Policy: automatic suspension after 30 days non-payment.  
+– No individualized notice beyond generic reminder.
+
+Legal Issues:  
+1. Does mail delivery engage s.7 Charter?  
+2. Does policy violate “principles of fundamental justice”?
+
+Party Arguments:  
+- **Tremblay:** Mail is essential life-support service.  
+- **CPC:** Fee policy is administrative, not a Charter matter.
+
+Legal Standard:  
+Applying Oakes test for overbreadth (R v. Oakes, 1986).
+
+Analysis:  
+Majority finds service indispensable to life-liberty; policy overbroad, no meaningful notice. Proportionality fails.
+
+Holding:  
+Appeal allowed; policy invalid; remit for redesign. No costs. Abella JJ concurs; Côté JJ dissenting, arguing administrative policy not subject to s.7.  

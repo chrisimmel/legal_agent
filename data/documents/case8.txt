@@ -1,0 +1,37 @@
+--- case_08.txt ---
+Case Number: ICSID-ARB/22/004  
+Title: Global Ventures v. Republic of Zanbia  
+Jurisdiction: ICSID Tribunal (UK–Zanbia BIT)  
+Date: March 8, 2022  
+Tribunal: Petrova (Chair), Okoro, Tan  
+
+Parties & Counsel:  
+• Claimant: Global Ventures Ltd. (counsel: White & Case)  
+• Respondent: Zanbia (counsel: Govt. Legal Dept.)
+
+Background:  
+Under the 1998 UK–Zanbia BIT, GV invested USD 50M mining concession subject to environmental review. License revoked Jan 2020.
+
+Procedural History:  
+Notice Aug 2020; preliminary objections denied Nov 2020.
+
+Facts:  
+– Zanbia cites non-compliance with environmental regs.  
+– No written warnings or remediation opportunity provided.
+
+Legal Issues:  
+1. Indirect expropriation under Art. 6 BIT.  
+2. Fair compensation standard (prompt, adequate, effective).
+
+Party Arguments:  
+- **GV:** Revocation equivalent to deprivation of property.  
+- **Zanbia:** Legitimate regulatory action in public interest.
+
+Legal Standard:  
+Salini test for indirect expropriation; Chorzów Factory principle for compensation.
+
+Analysis:  
+Tribunal finds revocation disproportionate, lacked procedural safeguards. Regulatory act crossed into expropriation.
+
+Award:  
+Compensation USD 35M + 5% compound interest from Jan 2020. Costs split 60/40. Unanimous.  

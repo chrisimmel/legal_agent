@@ -1,0 +1,37 @@
+--- case_05.txt ---
+Case Number: SIAC-2021-045  
+Title: Li v. Singapore Telecommunications Ltd.  
+Jurisdiction: SIAC Arbitration (Rules 2016)  
+Date: May 27, 2021  
+Arbitrator: Prof. Wong Wei Lun  
+
+Parties & Counsel:  
+• Claimant: Ms. Li (counsel: Rajah & Tann)  
+• Respondent: SingTel (counsel: Drew & Napier)  
+
+Background:  
+Li’s expatriate contract guaranteed 60‐day notice or compensation. SingTel alleged she worked remotely without approval, breaching confidentiality Art. 15.
+
+Procedural History:  
+Commenced July 2020; hearing in Feb 2021; briefs closed Mar.
+
+Facts:  
+– Li’s email logs show continuous reporting.  
+– SingTel’s HR policy: progressive discipline.
+
+Legal Issues:  
+1. Breach of notice clause Art. 12.  
+2. Justification under confidentiality Art. 15.
+
+Party Arguments:  
+- **Li:** No misconduct; clause mandatory.  
+- **SingTel:** Email logs show policy breach warranting summary dismissal.
+
+Legal Standard:  
+Arbitrator applies Singapore Contract Law: strict textual interpretation.
+
+Analysis:  
+Award finds no prima facie evidence of unauthorized disclosure. SingTel circumvented its own policy by bypassing progressive discipline required under employee handbook.
+
+Holding & Award:  
+SingTel to pay SGD 180,000 for notice + lost benefits, plus SGD 10,000 costs. Dissenting note: arbitrator warns parties to update termination policies.  

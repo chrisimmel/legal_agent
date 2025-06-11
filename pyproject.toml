@@ -1,0 +1,14 @@
+[project]
+name = "research-agent"
+version = "0.1.0"
+description = "Legal Research Agent - Multi-agent system for legal document research and analysis"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.54.0",
+    "chromadb>=1.0.12",
+    "instructor>=1.8.3",
+    "langchain-text-splitters>=0.3.8",
+    "openai>=1.12.0",
+    "sentence-transformers>=4.1.0",
+]

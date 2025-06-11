@@ -1,0 +1,37 @@
+--- case_06.txt ---
+Case Number: FCA-2022-302  
+Title: Nguyen v. Commonwealth Bank of Australia  
+Jurisdiction: Federal Court of Australia  
+Date: October 14, 2022  
+Judge: Justice Helen Murphy  
+
+Parties & Counsel:  
+• Plaintiff: Minh Nguyen (counsel: Herbert Smith Freehills)  
+• Defendant: CBA (counsel: Allens Linklaters)  
+
+Background:  
+Nguyen wired USD 200,000 via CBA from Singapore to Sydney. Bank’s staff mis-keyed SWIFT code, causing loss.
+
+Procedural History:  
+Filed under tort law Mar 2022; cross-motions for summary judgment heard Sept.
+
+Facts:  
+– Internal protocol requires dual verification.  
+– Bank records show only single check.
+
+Legal Issues:  
+1. Duty of care in international transfers.  
+2. Causation and remoteness under Donoghue v. Stevenson.
+
+Party Arguments:  
+- **Nguyen:** Standard of care breached.  
+- **CBA:** Relies on client-provided instructions; no deeper duty.
+
+Legal Standard:  
+Banking duty of care recognized in Farah Constructions v. Say-Dee (2007).
+
+Analysis:  
+Court finds CBA owes elevated duty when processing instructions; breach clear. Loss direct and foreseeable.
+
+Holding & Costs:  
+Judgment for Nguyen: AUD 270,000 + 5% interest from Feb 2022; AUD 15,000 costs. No appeal noted.  

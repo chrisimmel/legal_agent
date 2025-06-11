@@ -1,0 +1,37 @@
+--- case_09.txt ---
+Case Number: ECHR-2020-0842  
+Title: Andersson v. Council of Europe  
+Jurisdiction: ECHR, Grand Chamber  
+Date: July 22, 2020  
+Judges: Panel of 7  
+
+Parties & Counsel:  
+• Applicant: Lars Andersson (pro bono)  
+• Respondent: Council of Europe (Secretary General’s office)  
+
+Background:  
+Andersson’s extradition delayed 30 months due to successive adjournments.
+
+Procedural History:  
+Chamber judgment Mar 2020 found violation; referred to Grand Chamber.
+
+Facts:  
+– Delays due to procedural re-filings and ministerial review.  
+– No interim remedies sought effectively.
+
+Legal Issues:  
+1. Breach of Art. 6(1) “reasonable time.”  
+2. Appropriate remedy under Art. 41.
+
+Party Arguments:  
+- **Andersson:** State failed to justify lengthy adjournments.  
+- **Council:** Complexity justified some delays.
+
+Legal Standard:  
+“Reasonable time” balancing complexity vs. applicant’s interests (Kudła v. Poland).
+
+Analysis:  
+Grand Chamber finds delays excessive given straightforward extradition. State had alternate mechanisms to expedite.
+
+Holding:  
+Violation Art. 6(1). €8,000 non-pecuniary damages + €3,500 costs. No dissent.  

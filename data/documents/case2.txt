@@ -1,0 +1,37 @@
+--- case_02.txt ---
+Case Number: DHC-2022-1120  
+Title: Patel v. Government of Delhi  
+Jurisdiction: Delhi High Court, Taxation Bench  
+Date: August 3, 2022  
+Judge: Hon. Ritu Mahajan  
+
+Parties & Counsel:  
+• Petitioner: Arun Patel (counsel: Verma & Associates)  
+• Respondent: MCD (counsel: Govt. Advocate Office)  
+
+Background:  
+Under the Municipal Tax Act, 2008, MCD assesses industrial property tax via prescribed slab valuations. Patel’s factory assessed at ₹10.5 cr in Jan 2022 triggered demand notice.
+
+Procedural History:  
+Writ petition filed Apr 2022 with stay on collection; counter-affidavit filed May 2022.
+
+Facts:  
+– Notice lacked slab‐by‐slab worksheet and comparables list.  
+– Patel failed to file time-barred objections in Feb 2022.  
+
+Legal Issues:  
+1. Validity of notice under Sec. 78(2) MTA.  
+2. Whether procedural lapse vitiates assessment.
+
+Parties’ Arguments:  
+- **Patel:** Notice denied meaningful objection—violation of Audi alteram partem.  
+- **MCD:** Notice complied with Form-A; procedural errors are curable.
+
+Legal Standard:  
+Natural justice in tax matters requires full disclosure of valuation data (see Delhi Mun. Corp. v. Garg, 2015).
+
+Analysis:  
+Court cites Garg: omission of critical data renders notice void; time-bar is subordinate to principles of natural justice when notice itself is flawed.
+
+Holding & Orders:  
+Assessment quashed. MCD to re-assess within 60 days with detailed notice. ₹50,000 awarded for costs. No further stay.  

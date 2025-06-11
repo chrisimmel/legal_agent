@@ -1,0 +1,37 @@
+--- case_03.txt ---
+Case Number: LHC-2020-3578  
+Title: Johnson v. Barclays Bank PLC  
+Jurisdiction: London High Court, Commercial Court  
+Date: November 9, 2020  
+Judge: Sir Andrew Collins  
+
+Parties & Counsel:  
+• Claimant: Emily Johnson (counsel: Harrington & Co.)  
+• Defendant: Barclays Bank PLC (counsel: Linklaters LLP)  
+
+Background:  
+Johnson purchased a 5-year structured note in Apr 2019 marketed as “capital-protected, high-yield.” Returns plummeted in Mar 2020 market crash.
+
+Procedural History:  
+Claim issued Aug 2020 under FSMA 2000. Barclays’ strike-out application denied Sept.
+
+Facts:  
+– Promotional brochure: “Guaranteed 5% p.a.”  
+– Risk disclosures in Section 3 small-print.  
+
+Legal Issues:  
+1. Breach of s.138D(1) FSMA: fair, clear, non-misleading info.  
+2. Adequacy under FCA COB rules.
+
+Parties’ Arguments:  
+- **Johnson:** Reasonable investor misled by emphasis on returns.  
+- **Barclays:** Full disclosure present; investor risk awareness.
+
+Legal Standard:  
+“Fair, clear and not misleading” assessed by objective reasonable investor test (see Collidge v. UBS, 2012).
+
+Analysis:  
+Contrasting bold headlines vs. tiny risk section, Court finds imbalance. Investor likely to overlook downside; FCA’s spirit breached.
+
+Holding & Remedy:  
+Barclays to pay £23,000 net loss + 4% interest from claim date and £5,000 costs. No punitive damages.  

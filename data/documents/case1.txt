@@ -1,0 +1,38 @@
+--- case_01.txt ---
+Case Number: NYSC-2021-0456  
+Title: Smith v. Acme Corp.  
+Jurisdiction: New York Supreme Court, Commercial Division  
+Date: June 15, 2021  
+Judge: Hon. Maria Gonzales  
+
+Parties & Counsel:  
+• Plaintiff: John Smith (counsel: Baker & Myers LLP)  
+• Defendant: Acme Corp. (counsel: Richards, Lee & Co.)  
+
+Background:  
+Smith was recruited in 2018 as Senior Sales Manager on a 3-year contract guaranteeing “cause-only” termination, plus a quarterly performance bonus of 20% base salary. In Dec 2020, Acme accused him of policy breaches, terminated him without notice, and withheld his Q4 bonus.
+
+Procedural History:  
+Filed Mar 2021; Acme’s motion to dismiss for failure to exhaust the internal grievance process was denied Apr 2021. Parties exchanged discovery by June.
+
+Facts:  
+– Cl. 8.2 requires 30-day notice or pay in lieu.  
+– Bonus clause: “The Company shall pay…”  
+– Smith denies any misconduct; Acme points to two email warnings in Nov 2020.
+
+Legal Issues:  
+1. Did Acme breach the notice/pay-in-lieu clause?  
+2. Is the bonus entitlement mandatory or discretionary?  
+
+Parties’ Arguments:  
+- **Smith:** Clause is unambiguous; bonus is “shall.”  
+- **Acme:** Warnings triggered “for cause” exception.  
+
+Legal Standard:  
+Contract interpretation under Corbin’s “plain meaning” rule; extrinsic evidence only if ambiguous.
+
+Analysis:  
+Court finds warnings were informal performance notes, not “cause” under Cl. 2.1. Bonus language “shall” creates a duty; failure to pay is breach.
+
+Holding & Relief:  
+Judgment for Smith. Damages: $45,000 back pay, $12,500 bonus, pre-judgment interest at 9%, and $2,000 costs. No injunctive relief.  

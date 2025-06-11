@@ -1,0 +1,37 @@
+--- case_04.txt ---
+Case Number: CA-2023-0091  
+Title: Renault SA v. Peugeot SA  
+Jurisdiction: Cour d’appel de Paris, 3ème chambre  
+Date: February 12, 2023  
+Judge: Mme Chantal Dubois  
+
+Parties & Counsel:  
+• Appellant: Renault SA (counsel: Gide Loyrette Nouel)  
+• Respondent: Peugeot SA (counsel: CMS Bureau Francis Lefebvre)  
+
+Background:  
+Renault’s patent FR-2015-1234 covers a 5-component variable injector. Peugeot’s X-Flow launched in 2021 allegedly replicates Cl. 3’s pressure valve.
+
+Procedural History:  
+First-instance in 2022: patent invalidity refusal. Renault appealed Jan 2023.
+
+Facts:  
+– Claim construction under C.P.I. L. 613-14.  
+– Prior art: Gebra 2010 lacking flow-control ring.
+
+Legal Issues:  
+1. Proper interpretation of claims.  
+2. Anticipation by prior art.
+
+Parties’ Arguments:  
+- **Renault:** X-Flow embodies each embryonic element.  
+- **Peugeot:** design differences “manner of operation” circumvent coverage.
+
+Legal Standard:  
+Article 3 of the EPC Protocol: purposive construction, “informed person” test.
+
+Analysis:  
+Court applies Directive 2004/25: focuses on technical effect. X-Flow’s valve identical in operation. Gebra lacks element Cl. 3’s calibrated orifice.
+
+Holding:  
+Appeal granted. Injunction issued; damages €1.2 M + €150 K procedural. No dissent.  
