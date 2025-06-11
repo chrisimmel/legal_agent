@@ -1,6 +1,8 @@
 # Legal Research Agent
 
-An intelligent multi-agent system for legal document research and analysis. The system uses advanced AI agents to plan, execute, and reflect on research tasks to provide comprehensive answers to legal queries.
+A simple multi-agent system for legal document research and analysis. The system uses a small set of AI agents to plan, execute, and reflect on research tasks to provide comprehensive answers to legal queries.
+
+NOTE: This is just a simple proof of concept, not intended for any real use.
 
 ## Features
 
@@ -207,18 +209,6 @@ Notice that the agents reflect on the result of each step and are prepared to re
 2. **No Documents Found**: Check that documents exist in `data/documents/`
 3. **Vector Store Empty**: Run document processing pipeline first
 4. **Step Execution Failures**: Check document quality and query complexity
-
-### Performance Optimization
-- Use OpenAI embeddings for better search quality
-- Adjust chunk sizes based on document types
-- Monitor agent execution logs for bottlenecks
-- Consider document preprocessing for complex layouts
-
-### Debug Mode
-Run with verbose output to see agent decision-making:
-```bash
-python orchestrator.py "your query" --verbose
-```
 
 ## License
 
