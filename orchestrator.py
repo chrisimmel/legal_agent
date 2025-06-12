@@ -144,16 +144,16 @@ def main():
 
     if len(sys.argv) < 2:
         print("=== Agent Orchestrator ===\n")
-        print('Usage: python agents.py "<your query>"')
+        print('Usage: python orchestrator.py "<your query>"')
         print("\nExample queries:")
         print(
-            '  python agents.py "What are the main legal issues discussed in the case documents?"'
+            '  python orchestrator.py "What are the main legal issues discussed in the case documents?"'
         )
         print(
-            '  python agents.py "Summarize the key findings and outcomes from all cases."'
+            '  python orchestrator.py "Summarize the key findings and outcomes from all cases."'
         )
         print(
-            '  python agents.py "What types of legal proceedings are represented in the database?"'
+            '  python orchestrator.py "What types of legal proceedings are represented in the database?"'
         )
         sys.exit(1)
 
